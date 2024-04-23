@@ -1,2 +1,3 @@
 # goit-markup-hw-01
-Ödev 1
+
+Ev Ödevi 1
